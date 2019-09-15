@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sameera Sood</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Sameera.
+        \n\n I am 31 years old. I am from India, now settled in Bristol, UK.
+        \n\n I started learning how to code 5 months ago. And so far, I have learnt HTML, CSS, JavaScript, SQL. Right
+        now, I am working on Kotlin and learning how to create Android apps. I am really enjoying it.
+        \n\n I have also lived in Delhi for a short while, then London, later Paris, and now finally in Bristol.
+        \n\n I am a vegetarian, and I love cooking and travelling.
+        \n I have a 3 years old little girl who is the light of my life.
+
+        \n\n I will be happy to answer any questions regarding cooking or coding, though I am still a beginner.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
